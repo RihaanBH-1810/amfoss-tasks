@@ -9,5 +9,5 @@
 ## go to the folder from which you want to push files 
 ## 1.To check permissions :git remote -v
 ## 2.To add all the files in the folder :git add .
-## 3.to commit them : git commit - "comment"
+## 3.to commit them : git commit -m "comment"
 ## 4.to actually push the files into the repo : git push origin master  
