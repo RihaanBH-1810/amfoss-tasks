@@ -5,8 +5,8 @@
 ## 4.command to check commit logs :git log
 
 # commands used to push work into github:
-##After cloning the repo
-##go to the folder from which you want to push files 
+## After cloning the repo
+## go to the folder from which you want to push files 
 ## 1.To check permissions :git remote -v
 ## 2.To add all the files in the folder :git add .
 ## 3.to commit them : git commit - "comment"
