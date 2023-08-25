@@ -6,7 +6,8 @@
 
 # commands used to push work into github:
 ##### After cloning the repo
-##### go to the folder from which you want to push files 
+##### Go to the folder from which you want to push files
+##### And setting up origin master
 ##### 1.To check permissions :git remote -v
 ##### 2.To add all the files in the folder :git add .
 ##### 3.to commit them : git commit -m "comment"
