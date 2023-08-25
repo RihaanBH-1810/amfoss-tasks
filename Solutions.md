@@ -1,4 +1,4 @@
-# Commands used in each step :: 
+# Commands used in each step :
 ##### 1.Command to clone a repository from github : git clone <url of the github repo>
 ##### 2.Command to make a directory : mkdir<filename>
 ##### 3.Command to copy a file from one branch to another branch :git checkout <remote branch> <Relative path of the file to be copied from the other branch>
