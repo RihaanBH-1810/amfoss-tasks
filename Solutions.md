@@ -12,3 +12,6 @@
 ##### 2.To add all the files in the folder :git add .
 ##### 3.to commit them : git commit -m "comment"
 ##### 4.to actually push the files into the repo : git push origin master  (Type the username and password)
+
+
+![Screenshot from 2023-08-25 20-18-06](https://github.com/RihaanBH-1810/amfoss-tasks/assets/70442307/2dbea295-ce66-4bba-b802-671cd45d0583)
