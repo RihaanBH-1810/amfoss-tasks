@@ -10,3 +10,7 @@ for n in range(2,number+1):
         elif(n%j)!=0:
             print(n)
             break;
+<<<<<<< HEAD
+=======
+
+>>>>>>> 9a24117 (Python)
