@@ -1,3 +1,4 @@
+#hehe
 number = int(input("Enter the number :"))
 if number <= 1:
     exit()
