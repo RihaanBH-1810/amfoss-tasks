@@ -1,0 +1,119 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,400;1,200;1,300;1,400&display=swap');
+
+*{
+    font-family: 'Poppins', sans-serif;
+    margin:0; padding:0;
+    box-sizing: border-box;
+    outline: none; border: none;
+    text-decoration: none;
+    text-transform: capitalize;
+    transition: .2s linear;
+} 
+
+
+.container {
+    width: auto;
+    height: auto;
+    background-color:#0f0f31;
+    padding-top: 200px;
+    padding-right: 900px ;
+    padding-left: 900px ;
+    text-align: center;
+    padding-bottom: 15px;
+    color: #fff;
+    text-shadow: 0 5px 10px rgba(0,0,0,.2);
+    font-size: 50px;
+}
+
+.container .box-container{
+    
+    margin-top: 35px;
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 25px;
+}
+
+.container .box-container .box{
+    background-image: linear-gradient(#0B0B21 97%, #3345AB 3%);
+    box-shadow: 0 5px 10px rgba(0,0,0,.2);
+    border-radius: 25px;
+    text-align: center;
+    padding:30px 20px;
+
+}
+
+.container .box-container .box img{
+    height: 300px;
+    
+}
+
+.container .box-container .box h3{
+    color: #cfc8c8;
+    font-size : 40px;
+    padding:10px 0;
+}
+
+.container .box-container .box p{
+    color: #f3e4e4;
+    font-size : 33px;
+    line-height: 1.8;
+}
+.container .box-container .box .btn{
+    height: 75px;
+    text-align: center;
+    width: 250px;
+    margin-top: 10px;
+    display: inline-block;
+    background: #1e1e5e;
+    color: #cfc8c8;
+    font-size: 33px;
+    border-radius: 15px;
+    padding:8px 25px;
+}
+
+.container .box-container .btn:hover{
+    letter-spacing: 0.5px;
+    transform: scale(1.03);
+}
+
+.container .box-container .box:hover{
+    box-shadow: 0 10px 15px rgba(0,0,0,.3) ;
+    transform: scale(1.1);
+}
+
+body {
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.topnav {
+    position: 0;
+    top: 0px;
+    background-color: #0f0f31;
+    overflow: hidden;
+}
+
+.topnav a {
+    float: right;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+}
+
+.topnav a:hover {
+    background-color: #ddd;
+    color: #3345AB;
+}
+  
+.topnav a.active {
+    float: left;
+    background-color: #04AA6D;
+    color: white;
+}
+
+.topnav img{
+    height: 100px;
+}
