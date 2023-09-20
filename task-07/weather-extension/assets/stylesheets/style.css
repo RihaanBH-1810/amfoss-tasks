@@ -1,0 +1,66 @@
+*{
+    margin:0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    font-family: "Arial", "Helvetica", sans-serif;
+    background-image:"assets/backdrop.png";
+}
+
+.input{
+    text-align: center;
+    margin: 100px auto;
+    }
+
+input[type="submit"]{
+    margin-top: 50px;
+    padding-top:50px;
+    padding: 15px 30px;
+    background: #2d60ac;
+    border-radius: 15px;
+    font-family: "Arial", "Helvetica", sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+input[type="submit"] :hover{
+    background: #0a9ed8;
+    transform: scale(1.12);
+}
+
+.input input[type="text"]{
+    width: 400px;
+    height: 40px;
+    padding: 5px 10px;
+    background: #0a9ed8;
+    border: none;
+    border-radius: 10px;
+    font-family: "Nunito",sans-serif;
+    font-weight:bold;
+    font-size: 20px;
+}
+
+.card{    
+    border-radius: 30px;
+}
+
+
+.close{
+float: right;
+margin-top: -2px;
+cursor: pointer;
+margin-right: 20px;
+}
+
+.card h1{
+padding: 5px 0;
+text-align: center;
+}
+
+.card p{
+    text-align: center;
+    margin:30px 0;
+    font-size:20px;
+}

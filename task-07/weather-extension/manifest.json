@@ -1,0 +1,21 @@
+{
+"manifest_version": 3,
+"name": "Weather Extension v2",
+"version": "1.0",
+"description": "Get weather information of cities !",
+"action": {
+    "default_popup": "index.html",
+    "default_icon": {
+    "16": "assets/weather_logo.png",
+    "48": "assets/weather_logo.png",
+    "128": "assets/weather_logo.png"
+    }
+},
+"icons": {
+    "16": "assets/weather_logo.png",
+    "48": "assets/weather_logo.png",
+    "128": "assets/weather_logo.png"
+}
+
+  }
+  
