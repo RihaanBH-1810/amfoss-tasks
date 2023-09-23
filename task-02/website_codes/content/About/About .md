@@ -9,25 +9,26 @@ showTableOfContents: true
 
 
 **About Me: Rihaan B H**
-👋 Hello! I'm Rihaan B H, and I'm thrilled to share a glimpse of who I am and what drives my passions.
+
+Hello! I'm Rihaan B H, and I'm thrilled to share a glimpse of who I am and what my interests are :
 
 **🤖 Robotics and AI Enthusiast**
 I am a student at S1 Robotics and AI, where I am constantly exploring the exciting realms of robotics and artificial intelligence. My enthusiasm for creating intelligent systems that interact with and understand the world around us is what propels me forward. Whether it's programming intricate algorithms or designing innovative robotic solutions, I'm always eager to push the boundaries of what's possible.
 
-**🐍 Python and C++ Aficionado**
-Languages like Python and C++ are more than just programming tools to me – they are mediums through which I bring my ideas to life. From writing clean and efficient code to solving complex problems, I find joy in the logical elegance that these languages offer.
+**🐍 I like programming**
+The first language i learnt was python, I started learning programming during the covid lockdown, Although i'm not that good at comepetitive programming i like building games using pygame, make cv apps using open cv and other stuff 
 
-**🌐 ROS Systems and Computer Vision**
-I have a strong affinity for ROS (Robot Operating System) systems, where I enjoy architecting the brains behind robots. Integrating sensors, actuators, and algorithms into a cohesive unit is like crafting a symphony of technology. My fascination with computer vision further fuels my interest in perceiving and interpreting the visual world, be it for object recognition, navigation, or image processing.
+**Computer Vision**
+I came accross a competition on youtube called f1tenth and i started reading more about it and i read a few of the research papers over there one of which was something related to reducing number of sensors in autonomous vehicles by training an ai model which can do depth preception just by using a camera i would like to make something like that in the future
 
-**🔌 Tinkering with Electronics**
-When I'm not immersed in code, you'll likely find me tinkering with Arduino boards and other electronic components. There's something inherently satisfying about assembling circuits, watching LEDs blink to life, and creating interactive gadgets that bridge the digital and physical realms.
+**Arduino and robots**
+During covid i was gifted an arduino kit since then i've been playing with it making small line follower robots, humidity and temp detection , playing with led mattrix and other little projects.
 
 **⚽ Sports Enthusiast**
-Beyond the world of technology, I'm an avid sports enthusiast. Swimming and football are my go-to activities for staying active and recharging my mind. The same determination and teamwork I apply in programming and robotics translate well onto the field.
+Beyond the world of technology, I'm an avid sports enthusiast. Swimming and football are my go-to activities for staying active and recharging my mind. 
 
-**📚 Open to New Horizons**
-While my core interests revolve around robotics, programming, and AI, I am always open to embracing new domains and challenges. I believe that a diverse skill set is key to innovation, and I am excited to learn and grow in uncharted territories.
+**All in all i want to learn new things and in the end I want to make my own contribution in the field of tech within my lifetime which should help people**
 
-In essence, I'm on a continuous journey to fuse my technical expertise with my creative spirit. Whether it's diving into lines of code or diving into the pool, I approach every endeavor with curiosity, dedication, and the drive to make a meaningful impact. Let's connect, collaborate, and explore the exciting possibilities together!
+
+
 
