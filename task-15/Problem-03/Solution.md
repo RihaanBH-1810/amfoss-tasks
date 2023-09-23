@@ -1,3 +1,4 @@
+```
 def find_largest_prime(arr):
     l_p = 0
     for ftr in arr:
@@ -35,7 +36,8 @@ while(t):
         
 #Again i encountered time limit exceeded on test case 4 and 5         
 #Points (60/100)
-
+```
+```
 cases = int(input())
 while cases > 0:
 	number = int(input())
@@ -53,7 +55,7 @@ while cases > 0:
 		    ans = 1
 		    break
 cases -= 1
-
+```
 # I searched for a different method and came up with a new method, but still this one is failing the 5th test case
 #Points(80/100)
 

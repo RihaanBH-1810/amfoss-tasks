@@ -1,5 +1,6 @@
 #This one is also failing just one test case
 #(80/100)
+```
 def palc(n):
     near = n - (n % 11)
     for i in range(near, 100001, -11):
@@ -15,3 +16,4 @@ while t:
     N  = int(input())
     print(palc(N))
     t -= 1
+```

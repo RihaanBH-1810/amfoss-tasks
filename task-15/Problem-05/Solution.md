@@ -1,3 +1,4 @@
+```
 def lcm(a, b):
     lcm = 1
     for i in range(max(a, b), 1 + (a * b)):
@@ -17,8 +18,8 @@ while t:
     N = int(input())
     result = SM(N)
     print(result)
-    t -= 1
-    
+    t -= 1    
+```
 #I used GPT to get the method and then learnt how to find lcm and implemented the algorithm for finding the smallest number which is divisible by numbers from 1 to N
 #Although i understood it later 
  

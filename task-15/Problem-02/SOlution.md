@@ -1,3 +1,4 @@
+```
 def find_sum(N):
     f1 = 1
     f2 = 1
@@ -16,6 +17,6 @@ while t:
     N = int(input())
     print(find_sum(N))
     t -= 1
-
+```
 #This problem was comparatively easy as i did not encounter any time limit exceeded error 
 
