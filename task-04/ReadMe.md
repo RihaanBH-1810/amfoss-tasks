@@ -11,6 +11,5 @@ _Initially i had a lot of confidence in my CP skills these questions made me rea
 * _I used python tutor to visualize how my algorithm was bieng implemented_<br>
 * _I tried my best to learn as much as i could and completed those 6 questions_
 
-
-
+**Hackerrank User name : @rihaan1810**
 
