@@ -6,10 +6,10 @@ _Initially i had a lot of confidence in my CP skills these questions made me rea
 
 ##### I could solve only six questions , and in three other questions my code was clearing only the test case zero
 
-*_Initially i tried to solve the quesiton in C++ but it didn't work properly then i had to switch to python._<br>
-*_I wrote down a vague algorithm for the question on a page then started to work on it on python tutor interpreter_<br>
-*_I used python tutor to visualize how my algorithm was bieng implemented_<br>
-*_I tried my best to learn as much as i could and completed those 6 questions_
+* _Initially i tried to solve the quesiton in C++ but it didn't work properly then i had to switch to python._<br>
+* _I wrote down a vague algorithm for the question on a page then started to work on it on python tutor interpreter_<br>
+* _I used python tutor to visualize how my algorithm was bieng implemented_<br>
+* _I tried my best to learn as much as i could and completed those 6 questions_
 
 
 
