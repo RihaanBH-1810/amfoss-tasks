@@ -1,4 +1,4 @@
-#My approach for this task :
+# My approach for this task :
 
 * It took me some time to learn about how chrome extension, DOM, JS works and what is DOM. <br>
 * First I made the Basic html webpage , and css for it.<br>
