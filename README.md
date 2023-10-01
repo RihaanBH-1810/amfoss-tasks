@@ -32,7 +32,7 @@ I would try my best to help my fellow members with anything they need weather it
 [Task-09](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-09)|Geo Quest|Completed
 [Task-10](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-10)|RuskOS|Unattempted
 [Task-11](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-11)|Tinker Cad|Completed
-[Task-11](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-12)|Gododt|Completed
+[Task-12](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-12)|Godot|Completed
 [Task-13](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-13)|VIM|Completed
 [Task-14](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-14)|Bandit|Completed
 [Task-15](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-15)|Project Euler|Completed 
