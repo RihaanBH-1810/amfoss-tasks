@@ -35,4 +35,4 @@ I would try my best to help my fellow members with anything they need weather it
 [Task-12](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-12)|Godot|Unattempted
 [Task-13](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-13)|VIM|Completed
 [Task-14](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-14)|Bandit|Completed
-[Task-15](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-15)|Project Euler|Completed 
+[Task-15](https://github.com/RihaanBH-1810/amfoss-tasks/tree/main/task-15)|Project Euler|Partially Completed 
